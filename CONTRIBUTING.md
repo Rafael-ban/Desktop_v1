@@ -40,7 +40,7 @@
 
 ## 报告 Bug
 
-在报告 Bug 之前，请先检查 [Issues](https://github.com/Rafael-ban/Desktop_v1/issues) 中是否已存在相同的问题。
+在报告 Bug 之前，请先检查 [Issues](https://github.com/DiskNext/Desktop_v1/issues) 中是否已存在相同的问题。
 
 ### Bug 报告应包含：
 
@@ -91,7 +91,7 @@
 
 我们欢迎新功能建议！在提出之前：
 
-1. 检查 [Issues](https://github.com/Rafael-ban/Desktop_v1/issues) 中是否已有类似建议
+1. 检查 [Issues](https://github.com/DiskNext/Desktop_v1/issues) 中是否已有类似建议
 2. 确保功能与项目目标一致
 
 ### 功能请求应包含：
@@ -327,7 +327,7 @@ python GUI_Launcher.py
 如果您在贡献过程中遇到问题：
 
 1. 查看 [README.md](README.md) 和现有文档
-2. 搜索 [Issues](https://github.com/Rafael-ban/Desktop_v1/issues)
+2. 搜索 [Issues](https://github.com/DiskNext/Desktop_v1/issues)
 3. 创建新的 Issue 寻求帮助
 
 ---
